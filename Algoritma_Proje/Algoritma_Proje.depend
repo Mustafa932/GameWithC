@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734787193 source:c:\users\musta\onedrive\masaüstü\odev\algoritma_proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
